@@ -1,0 +1,46 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #333333;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+
+.header {
+  text-align: center;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0);
+  padding: 20px 0;
+  color: #ffffff;
+}
+
+.header h1 {
+  background-color: rgba(0, 0, 0, 0);
+  padding: 20px;
+  color: #ffffff;
+  margin: 0;
+}
+
+.top-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.content {
+  padding: 20px;
+  color: #ffffff;
+}
+
+.scrollable {
+  max-height: calc(100vh - 120px);
+  overflow-y: auto;
+}
+
+#main {
+  color: #ffffff;
+  font-size: 18px;
+}
