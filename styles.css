@@ -17,12 +17,6 @@ body {
   color: #ffffff;
 }
 
-.rubik-dirt-regular {
-  font-family: "Rubik Dirt", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-
 .header h1 {
   background-color: rgba(0, 0, 0, 0);
   font-family: "Panton Rust Grunge Shadow Heavy";
